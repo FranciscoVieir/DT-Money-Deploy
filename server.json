@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-06-13T18:41:08.823Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambuger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-06-13T18:36:08.823Z"
+    },
+    {
+      "id": 3,
+      "description": "Livro",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 580,
+      "createdAt": "2023-06-13T18:23:08.823Z"
+    },
+    {
+      "description": "Desenvolvimento Softskills",
+      "price": 983,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-06-14T19:19:39.905Z",
+      "id": 4
+    },
+    {
+      "description": "1kg Carne",
+      "price": 76,
+      "category": "Alimentação",
+      "type": "income",
+      "createdAt": "2023-06-14T19:38:09.256Z",
+      "id": 5
+    },
+    {
+      "description": "teste da descricao",
+      "price": 646,
+      "category": "Venda",
+      "type": "outcome",
+      "createdAt": "2023-06-14T19:48:41.360Z",
+      "id": 6
+    },
+    {
+      "description": "Camisa",
+      "price": 32,
+      "category": "Roupa",
+      "type": "outcome",
+      "createdAt": "2023-06-14T20:18:17.573Z",
+      "id": 7
+    }
+  ]
+}
